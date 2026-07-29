@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">ZHISAN — Visual Designer and Creative Technologist Profile</title>
+  <desc id="desc">An editorial dark banner with the ZHISAN wordmark, artboard guides, and a cyan-violet signal lens.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020509"/>
+      <stop offset=".58" stop-color="#070b14"/>
+      <stop offset="1" stop-color="#100a18"/>
+    </linearGradient>
+    <radialGradient id="lensGlow" cx="0" cy="0" r="1" gradientTransform="translate(988 188) rotate(145) scale(300 260)">
+      <stop offset="0" stop-color="#67ddff" stop-opacity=".22"/>
+      <stop offset=".42" stop-color="#697bff" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#a76cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#67ddff"/>
+      <stop offset=".62" stop-color="#8ba6ff"/>
+      <stop offset="1" stop-color="#b789ff"/>
+    </linearGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="480" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="480" rx="20" fill="url(#lensGlow)"/>
+
+  <g stroke="#bcd7ef" stroke-opacity=".09">
+    <path d="M58 0v480M774 0v480M1138 0v480"/>
+    <path d="M0 62h1200M0 414h1200"/>
+  </g>
+
+  <g transform="translate(58 50)">
+    <text x="0" y="0" dominant-baseline="hanging" fill="#6f7e92" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="4.5">INDEPENDENT VISUAL PRACTICE  /  SHANGHAI  /  CN</text>
+    <text x="-5" y="158" fill="#f2f5fb" font-family="Arial Black, Segoe UI, sans-serif" font-size="118" font-weight="900" letter-spacing="7">ZHISAN</text>
+    <rect x="2" y="190" width="612" height="2" fill="url(#signal)"/>
+    <text x="2" y="237" fill="#d2d9e5" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="1">VISUAL DESIGNER  ×  CREATIVE TECHNOLOGIST</text>
+    <text x="2" y="284" fill="#8390a4" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="1.1">ART DIRECTION · VISUAL SYSTEMS · MOTION · INTERACTION · WORLD-BUILDING</text>
+    <text x="2" y="345" fill="#aeb9c9" font-family="Segoe UI, Arial, sans-serif" font-size="18">Designing atmosphere, rhythm, and identity for worlds that do not exist yet.</text>
+  </g>
+
+  <g transform="translate(936 90)" fill="none">
+    <circle cx="80" cy="102" r="154" stroke="#77ddff" stroke-opacity=".15"/>
+    <circle cx="80" cy="102" r="118" stroke="#a987ff" stroke-opacity=".18" stroke-dasharray="2 9"/>
+    <path d="M-64 48A154 154 0 0 1 199 5" stroke="url(#signal)" stroke-width="2.5" stroke-opacity=".82"/>
+    <path d="M-14 196A118 118 0 0 0 194 139" stroke="#a987ff" stroke-width="2" stroke-opacity=".55"/>
+    <circle cx="80" cy="102" r="7" fill="#82e6ff"/>
+    <circle cx="80" cy="102" r="32" fill="#82e6ff" opacity=".16" filter="url(#soft)"/>
+    <path d="M80 102 161 41M80 102 8 174M80 102l117 78" stroke="#9feaff" stroke-opacity=".25"/>
+    <path d="M-83 102h326M80-61v326" stroke="#c7dcff" stroke-opacity=".07"/>
+  </g>
+
+  <g fill="#7e8ca0" font-family="Consolas, monospace" font-size="10" letter-spacing="1.5">
+    <text x="1096" y="36">X 1200</text>
+    <text x="1096" y="454">Y 0480</text>
+    <text x="948" y="391">VISUAL SIGNAL / ACTIVE</text>
+  </g>
+
+  <path d="M22 46V22h24M1154 22h24v24M22 434v24h24M1154 458h24v-24" fill="none" stroke="#d5e7ff" stroke-opacity=".28"/>
+  <rect x=".75" y=".75" width="1198.5" height="478.5" rx="19.25" fill="none" stroke="#8fdfff" stroke-opacity=".16" stroke-width="1.5"/>
+</svg>
