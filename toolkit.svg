@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Creative toolkit</title>
+  <desc id="desc">Creative capabilities grouped into direction, image and motion, and interactive media.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#05090f"/>
+      <stop offset="1" stop-color="#0d0a16"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#64dcff"/>
+      <stop offset="1" stop-color="#b184ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <path d="M400 38v224M800 38v224" stroke="#b6d1e8" stroke-opacity=".1"/>
+  <path d="M42 258h1116" stroke="url(#signal)" stroke-opacity=".24"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(42 44)">
+      <text x="0" y="0" dominant-baseline="hanging" fill="#69ddff" font-size="11" font-weight="700" letter-spacing="3.5">DIRECTION</text>
+      <text x="0" y="62" fill="#edf2f8" font-size="28" font-weight="750">Visual language</text>
+      <text x="0" y="105" fill="#8a98ac" font-size="15">Art direction · identity · typography</text>
+      <text x="0" y="136" fill="#8a98ac" font-size="15">Composition · color · design systems</text>
+      <text x="0" y="183" fill="#637287" font-size="12" letter-spacing="1">FIGMA / PHOTOSHOP / ILLUSTRATOR</text>
+    </g>
+    <g transform="translate(442 44)">
+      <text x="0" y="0" dominant-baseline="hanging" fill="#8da8ff" font-size="11" font-weight="700" letter-spacing="3.5">IMAGE &amp; MOTION</text>
+      <text x="0" y="62" fill="#edf2f8" font-size="28" font-weight="750">Time-based image</text>
+      <text x="0" y="105" fill="#8a98ac" font-size="15">Motion direction · editing · compositing</text>
+      <text x="0" y="136" fill="#8a98ac" font-size="15">AI image &amp; video · 3D · sound-image rhythm</text>
+      <text x="0" y="183" fill="#637287" font-size="12" letter-spacing="1">AFTER EFFECTS / BLENDER / AI WORKFLOWS</text>
+    </g>
+    <g transform="translate(842 44)">
+      <text x="0" y="0" dominant-baseline="hanging" fill="#b184ff" font-size="11" font-weight="700" letter-spacing="3.5">INTERACTIVE</text>
+      <text x="0" y="62" fill="#edf2f8" font-size="28" font-weight="750">Living systems</text>
+      <text x="0" y="105" fill="#8a98ac" font-size="15">Interface · prototyping · creative code</text>
+      <text x="0" y="136" fill="#8a98ac" font-size="15">Web motion · Three.js · character experience</text>
+      <text x="0" y="183" fill="#637287" font-size="12" letter-spacing="1">REACT / TYPESCRIPT / THREE.JS / LIVE2D</text>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="298.5" rx="17.25" fill="none" stroke="#8fdfff" stroke-opacity=".13" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Visual practice map</title>
+  <desc id="desc">An asymmetrical map connecting art direction with visual systems, interaction, motion, generative image, and world-building.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#04070c"/>
+      <stop offset=".58" stop-color="#070b13"/>
+      <stop offset="1" stop-color="#100a18"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#66dcff"/>
+      <stop offset="1" stop-color="#b184ff"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientTransform="translate(801 264) rotate(90) scale(126)">
+      <stop stop-color="#64d9ff" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#725cff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="520" rx="18" fill="url(#bg)"/>
+  <path d="M418 38v444" stroke="#bfd7ef" stroke-opacity=".1"/>
+
+  <g transform="translate(48 52)">
+    <text x="0" y="0" dominant-baseline="hanging" fill="#718197" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="4">A MULTIDISCIPLINARY PRACTICE</text>
+    <text x="0" y="116" fill="#edf2f8" font-family="Arial Black, Segoe UI, sans-serif" font-size="68" font-weight="900">VISUAL</text>
+    <text x="0" y="184" fill="#edf2f8" font-family="Arial Black, Segoe UI, sans-serif" font-size="68" font-weight="900">PRACTICE</text>
+    <rect x="2" y="222" width="268" height="2" fill="url(#signal)"/>
+    <text x="2" y="270" fill="#96a3b5" font-family="Segoe UI, Arial, sans-serif" font-size="16">One point of view.</text>
+    <text x="2" y="298" fill="#96a3b5" font-family="Segoe UI, Arial, sans-serif" font-size="16">Many forms of expression.</text>
+    <text x="2" y="371" fill="#68778c" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="1.5">IMAGE / TIME / SPACE / CODE / STORY</text>
+  </g>
+
+  <circle cx="801" cy="264" r="126" fill="url(#core)"/>
+  <circle cx="801" cy="264" r="88" fill="#09111b" stroke="#77ddff" stroke-opacity=".34"/>
+  <circle cx="801" cy="264" r="68" fill="none" stroke="#a888ff" stroke-opacity=".22" stroke-dasharray="3 8"/>
+  <circle cx="801" cy="264" r="5" fill="#84e6ff"/>
+  <text x="801" y="251" text-anchor="middle" fill="#eff5fc" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">ART DIRECTION</text>
+  <text x="801" y="278" text-anchor="middle" fill="#8292a8" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="1.4">THE CENTRAL THESIS</text>
+
+  <g fill="none" stroke="#95c7e8" stroke-opacity=".25">
+    <path d="M725 201 610 121H510"/>
+    <path d="M714 288 590 326H498"/>
+    <path d="M785 176 810 81"/>
+    <path d="M878 212 1001 128h118"/>
+    <path d="M884 299 1018 368h105"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(504 84)">
+      <circle cx="0" cy="37" r="4" fill="#66dcff"/>
+      <text x="20" y="28" fill="#e7edf6" font-size="18" font-weight="650">VISUAL SYSTEMS</text>
+      <text x="20" y="53" fill="#7f8da2" font-size="13">Identity · typography · composition</text>
+    </g>
+    <g transform="translate(492 290)">
+      <circle cx="0" cy="36" r="4" fill="#77c8ff"/>
+      <text x="20" y="27" fill="#e7edf6" font-size="18" font-weight="650">INTERACTION</text>
+      <text x="20" y="52" fill="#7f8da2" font-size="13">Interface · behavior · atmosphere</text>
+    </g>
+    <g transform="translate(740 40)">
+      <circle cx="70" cy="41" r="4" fill="#8daaff"/>
+      <text x="70" y="21" text-anchor="middle" fill="#e7edf6" font-size="18" font-weight="650">MOTION &amp; TIME</text>
+      <text x="70" y="58" text-anchor="middle" fill="#7f8da2" font-size="13">Rhythm · transition · performance</text>
+    </g>
+    <g transform="translate(1006 88)">
+      <circle cx="113" cy="40" r="4" fill="#9c94ff"/>
+      <text x="113" y="29" text-anchor="end" fill="#e7edf6" font-size="18" font-weight="650">GENERATIVE IMAGE</text>
+      <text x="113" y="54" text-anchor="end" fill="#7f8da2" font-size="13">AI direction · image-making · selection</text>
+    </g>
+    <g transform="translate(1013 330)">
+      <circle cx="110" cy="38" r="4" fill="#b184ff"/>
+      <text x="110" y="28" text-anchor="end" fill="#e7edf6" font-size="18" font-weight="650">WORLD-BUILDING</text>
+      <text x="110" y="53" text-anchor="end" fill="#7f8da2" font-size="13">Narrative · character · spatial fiction</text>
+    </g>
+  </g>
+
+  <path d="M445 458h706" stroke="url(#signal)" stroke-opacity=".22"/>
+  <text x="445" y="480" fill="#647388" font-family="Consolas, monospace" font-size="10" letter-spacing="1.4">THE FORM CHANGES. THE POINT OF VIEW REMAINS.</text>
+  <rect x=".75" y=".75" width="1198.5" height="518.5" rx="17.25" fill="none" stroke="#8fdfff" stroke-opacity=".14" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+  <title id="title">I design atmospheres, not just screens.</title>
+  <desc id="desc">A bold typographic visual design manifesto on a dark field with a signal arc.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#05090f"/>
+      <stop offset="1" stop-color="#0d0a16"/>
+    </linearGradient>
+    <linearGradient id="arc" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#66dcff"/>
+      <stop offset="1" stop-color="#ad86ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="290" rx="18" fill="url(#bg)"/>
+  <path d="M902 326c28-186 122-297 298-326" fill="none" stroke="url(#arc)" stroke-width="72" stroke-opacity=".07"/>
+  <path d="M864 300c45-157 147-251 305-278" fill="none" stroke="url(#arc)" stroke-width="2" stroke-opacity=".58"/>
+  <circle cx="1083" cy="72" r="6" fill="#77e1ff"/>
+
+  <g transform="translate(54 48)">
+    <text x="0" y="0" dominant-baseline="hanging" fill="#77869b" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="4">DESIGN POSITION</text>
+    <text x="-2" y="94" fill="#f2f5fa" font-family="Arial Black, Segoe UI, sans-serif" font-size="57" font-weight="900" letter-spacing="1">I DESIGN ATMOSPHERES,</text>
+    <text x="-2" y="163" fill="#f2f5fa" font-family="Arial Black, Segoe UI, sans-serif" font-size="57" font-weight="900" letter-spacing="1">NOT JUST SCREENS.</text>
+    <text x="760" y="211" fill="#91a0b5" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing=".8">设计感受，而不只是界面。</text>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="288.5" rx="17.25" fill="none" stroke="#90dfff" stroke-opacity=".14" stroke-width="1.5"/>
+</svg>
