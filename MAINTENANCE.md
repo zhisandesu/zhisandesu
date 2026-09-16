@@ -12,7 +12,7 @@
 
 ## 图片
 
-- `assets/profile/zhisan-anime-avatar-cute-2026.png`：当前清新可爱版角色头像；`zhisan-anime-avatar-2026.png` 为保留的早期版本。
+- `assets/profile/blanche-avatar-round-2026.png`：已选定的圆润版布朗琪头像，蓝紫背景；对应的 `blanche-avatar-round-upload.jpg` 用于账号头像上传。此前头像保留为历史候选，不作为当前版本。
 - `assets/profile/zhisan-anime-banner-2026.png`：GitHub README 横幅。
 - `assets/profile/zhisan-anime-wallpaper-2026.png`：无字横版壁纸。
 - `assets/projects/`：游戏宣传图与桌宠封面。
