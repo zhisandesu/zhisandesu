@@ -12,7 +12,7 @@
 
 ## 图片
 
-- `assets/profile/zhisan-anime-avatar-2026.png`：角色头像。
+- `assets/profile/zhisan-anime-avatar-cute-2026.png`：当前清新可爱版角色头像；`zhisan-anime-avatar-2026.png` 为保留的早期版本。
 - `assets/profile/zhisan-anime-banner-2026.png`：GitHub README 横幅。
 - `assets/profile/zhisan-anime-wallpaper-2026.png`：无字横版壁纸。
 - `assets/projects/`：游戏宣传图与桌宠封面。

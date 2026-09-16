@@ -79,6 +79,6 @@
 
 后续游戏进展、桌宠版本与新作品会继续整理到这里。
 
-[头像](./assets/profile/zhisan-anime-avatar-2026.png) · [横幅](./assets/profile/zhisan-anime-banner-2026.png) · [壁纸原图](./assets/profile/zhisan-anime-wallpaper-2026.png)
+[头像](./assets/profile/zhisan-anime-avatar-cute-2026.png) · [横幅](./assets/profile/zhisan-anime-banner-2026.png) · [壁纸原图](./assets/profile/zhisan-anime-wallpaper-2026.png)
 
 <sub>页面插画为角色联动视觉，不代表游戏实机画面。个人项目包含 AI 辅助制作内容。</sub>
