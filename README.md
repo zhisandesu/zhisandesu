@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile/zhisan-blanche-seaside-v3.png" width="100%" alt="枝散的海边黄昏：圆润版布朗琪、柯朵与游戏旅人" />
+  <img src="./assets/profile/zhisan-five-friends-2026.png" width="100%" alt="枝散的五人合照：空庭残响主角、埃拉拉、柯朵、布朗琪与维尔莎" />
 </p>
 
 <h1 align="center">枝散 <sub>ZHISAN</sub></h1>
@@ -13,6 +13,12 @@
   <a href="https://zhisan.site/">个人网站</a> ·
   <a href="https://github.com/zhisandesu/codex-desktop-pet/releases/latest">下载柯朵桌宠</a> ·
   <a href="https://github.com/zhisandesu/zhisan-creative-universe">创作档案</a>
+</p>
+
+<p align="center">
+  <a href="#游戏与桌宠">游戏与桌宠</a> ·
+  <a href="#网站与交互实验">网站与交互实验</a> ·
+  <a href="#制作与协作">制作与协作</a>
 </p>
 
 ## 关于我
@@ -62,7 +68,11 @@
 
 ## 网站与交互实验
 
-[zhisan.site](https://zhisan.site/) 是我的个人创作网站，把音乐、角色助手、小说、图像与三维展示放进同一个可探索的空间。下面保留一些界面与交互记录；网站持续迭代，实际效果以在线版本为准。
+[zhisan.site](https://zhisan.site/) 是我的个人创作网站，也是这些角色与作品共同的入口。在这里，可以听布朗琪的音乐、跟随埃拉拉与维尔莎浏览作品、阅读《最后的落叶》，也可以探索图像、三维展示与游戏 Demo。
+
+我负责网站的视觉、角色呈现与交互设计，并通过 Agent 辅助实现。下面展示音乐粒子、角色导航和小说档案的实际界面，以及从网站角色交互延伸出的本地桌面伴侣实验。网站持续迭代，实际效果以在线版本为准。
+
+[音乐与粒子](#音乐与音频响应粒子) · [角色助手](#角色助手与网站导航) · [小说与视觉档案](#小说与视觉档案)
 
 ### 音乐与音频响应粒子
 
@@ -122,7 +132,7 @@
 
 后续游戏进展、桌宠版本与新作品会继续整理到这里。
 
-[头像](./assets/profile/blanche-avatar-round-2026.png) · [横幅](./assets/profile/zhisan-blanche-seaside-v3.png) · [壁纸原图](./assets/profile/zhisan-anime-wallpaper-2026.png)
+[头像](./assets/profile/blanche-avatar-round-2026.png) · [横幅](./assets/profile/zhisan-five-friends-2026.png) · [壁纸原图](./assets/profile/zhisan-anime-wallpaper-2026.png)
 
 [Bilibili](https://space.bilibili.com/24876045) · [抖音](https://www.douyin.com/user/MS4wLjABAAAA4ilbBxHA5pg7QquOXi7S1nZzQTUeFTVTrodrUGpOaBX7Zx5GXJfYb8YMZWlTN_WR) · [小红书](https://www.xiaohongshu.com/user/profile/6a360b3b000000000e03d000)
 

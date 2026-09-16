@@ -13,7 +13,7 @@
 ## 图片
 
 - `assets/profile/blanche-avatar-round-2026.png`：已选定的圆润版布朗琪头像，蓝紫背景；对应的 `blanche-avatar-round-upload.jpg` 用于账号头像上传。此前头像保留为历史候选，不作为当前版本。
-- `assets/profile/zhisan-blanche-seaside-v3.png`：当前 GitHub README 横幅，海边黄昏背景，保留圆润版布朗琪与两位伙伴；旧横幅保留。
+- `assets/profile/zhisan-five-friends-2026.png`：当前 GitHub README 横幅，用户选定的五人沙发合照 B 版；角色为《空庭残响》主角、埃拉拉、柯朵、布朗琪与维尔莎。游戏主角以《空庭残响》加载界面为参考，不标为《余色》。旧横幅保留。
 - `assets/profile/zhisan-anime-wallpaper-2026.png`：无字横版壁纸。
 - `assets/projects/`：游戏宣传图与桌宠封面。
 
