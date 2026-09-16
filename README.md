@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile/zhisan-anime-banner-2026.png" width="100%" alt="枝散的二次元创作空间：音乐角色、柯朵与游戏旅人" />
+  <img src="./assets/profile/zhisan-blanche-seaside-v3.png" width="100%" alt="枝散的海边黄昏：圆润版布朗琪、柯朵与游戏旅人" />
 </p>
 
 <h1 align="center">枝散 <sub>ZHISAN</sub></h1>
@@ -62,10 +62,53 @@
 
 ## 网站与交互实验
 
-- **[zhisan.site](https://zhisan.site/)** — 个人创作网站，汇集游戏、角色助手、图像、音乐、小说与三维展示。
-- **[音乐响应粒子场](https://zhisandesu.github.io/audio-reactive-particle-field/)** — 用声音驱动的 WebGL 视觉实验。[查看仓库](https://github.com/zhisandesu/audio-reactive-particle-field)。
-- **Lingmu / 桌面伴侣** — 本地开发中的 Live2D 角色交互实验，探索对话、语音、记忆与任务反馈；与已发布的柯朵是两个项目。
-- **《最后的落叶》系列创作** — 角色、小说与音乐视觉持续更新，选集见[创作档案](https://github.com/zhisandesu/zhisan-creative-universe)。
+[zhisan.site](https://zhisan.site/) 是我的个人创作网站，把音乐、角色助手、小说、图像与三维展示放进同一个可探索的空间。下面保留一些界面与交互记录；网站持续迭代，实际效果以在线版本为准。
+
+### 音乐与音频响应粒子
+
+<a href="https://zhisan.site/">
+  <img src="./assets/profile/music-particle-interface.png" width="100%" alt="个人网站音乐页面：布朗琪专辑、播放器与音频响应粒子" />
+</a>
+
+把专辑视觉、播放状态和粒子运动连在一起，让画面随音乐变化。网站展示布朗琪的音乐内容，独立的粒子场实验也提供在线演示与开源代码。
+
+[进入个人网站](https://zhisan.site/) · [体验粒子场](https://zhisandesu.github.io/audio-reactive-particle-field/) · [查看开源仓库](https://github.com/zhisandesu/audio-reactive-particle-field)
+
+<details>
+  <summary>查看独立粒子场演示画面</summary>
+  <p align="center"><img src="./assets/profile/particle-field-demo.png" width="100%" alt="音频响应粒子场的独立演示界面" /></p>
+</details>
+
+### 角色助手与网站导航
+
+<p align="center">
+  <img src="./assets/profile/assistant-choice.png" width="49%" alt="个人网站的埃拉拉与维尔莎角色选择入口" />
+  <img src="./assets/profile/assistant-elara.png" width="49%" alt="埃拉拉的角色引导与对话界面" />
+</p>
+
+让角色参与迎接访客、介绍作品和内容导航。埃拉拉与维尔莎用不同的语气连接音乐、小说与创作档案，结合语音和状态反馈形成网站的交互体验。
+
+[进入网站，选择一位助手](https://zhisan.site/)
+
+### 小说与视觉档案
+
+<a href="https://zhisan.site/">
+  <img src="./assets/profile/novel-archive.png" width="100%" alt="最后的落叶在个人网站中的小说书册与作品入口" />
+</a>
+
+《最后的落叶》持续整理小说、角色与场景创作。网站用书册、章节和视觉档案组织内容，也承载图像、音乐与三维物件的展示，让作品可以被阅读和探索。
+
+[打开个人网站](https://zhisan.site/) · [查看创作档案](https://github.com/zhisandesu/zhisan-creative-universe)
+
+### Lingmu / 本地 Live2D 桌面伴侣
+
+<p align="center">
+  <img src="./assets/profile/desktop-companion-chat.png" width="56%" alt="本地 Live2D 桌面伴侣的角色、聊天与交互控制界面" />
+</p>
+
+开发中的 Windows 桌面伴侣实验，探索角色互动、对话、语音、本地记忆与任务反馈。重点是让角色通过动作、界面和声音回应操作，逐步打磨长期陪伴体验。
+
+这是与柯朵不同的本地项目，尚未作为公开版本发布；这里只展示已筛选的界面，不公开私人配置、会话记录或项目源码。Live2D 模型使用既有资源，交互与应用部分由我设计并通过 Agent 辅助实现。
 
 ## 制作与协作
 
@@ -79,6 +122,8 @@
 
 后续游戏进展、桌宠版本与新作品会继续整理到这里。
 
-[头像](./assets/profile/blanche-avatar-round-2026.png) · [横幅](./assets/profile/zhisan-anime-banner-2026.png) · [壁纸原图](./assets/profile/zhisan-anime-wallpaper-2026.png)
+[头像](./assets/profile/blanche-avatar-round-2026.png) · [横幅](./assets/profile/zhisan-blanche-seaside-v3.png) · [壁纸原图](./assets/profile/zhisan-anime-wallpaper-2026.png)
+
+[Bilibili](https://space.bilibili.com/24876045) · [抖音](https://www.douyin.com/user/MS4wLjABAAAA4ilbBxHA5pg7QquOXi7S1nZzQTUeFTVTrodrUGpOaBX7Zx5GXJfYb8YMZWlTN_WR) · [小红书](https://www.xiaohongshu.com/user/profile/6a360b3b000000000e03d000)
 
 <sub>页面插画为角色联动视觉，不代表游戏实机画面。个人项目包含 AI 辅助制作内容。</sub>

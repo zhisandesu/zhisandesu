@@ -13,11 +13,13 @@
 ## 图片
 
 - `assets/profile/blanche-avatar-round-2026.png`：已选定的圆润版布朗琪头像，蓝紫背景；对应的 `blanche-avatar-round-upload.jpg` 用于账号头像上传。此前头像保留为历史候选，不作为当前版本。
-- `assets/profile/zhisan-anime-banner-2026.png`：GitHub README 横幅。
+- `assets/profile/zhisan-blanche-seaside-v3.png`：当前 GitHub README 横幅，海边黄昏背景，保留圆润版布朗琪与两位伙伴；旧横幅保留。
 - `assets/profile/zhisan-anime-wallpaper-2026.png`：无字横版壁纸。
 - `assets/projects/`：游戏宣传图与桌宠封面。
 
 头像和页面横幅分别管理。替换 README 图片不会自动更换 GitHub 账号头像；账号头像需在个人资料设置中上传。旧图片与版本历史保留，便于回退。
+
+网站图文展示保留音乐粒子、角色助手、小说档案与本地 Live2D 伴侣，不因新增游戏或桌宠卡片而整体移除。更新时优先替换对应截图与说明；界面截图与宣传插画分别标注。旧记忆面板截图含个人会话内容，不在 README 中恢复展示。
 
 ## 内容边界
 
